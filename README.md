@@ -5,4 +5,4 @@
 - Python (シリアル通信) 
 
 ## その他
-- 回路図：「Tinkercad Circuits」をしよう
+- 回路図：「Tinkercad Circuits」で作図した
